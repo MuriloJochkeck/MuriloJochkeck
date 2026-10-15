@@ -55,7 +55,6 @@ Uma seleção de projetos pessoais e trabalhos em equipe. Os links levam aos rep
 | :--- | :--- | :--- |
 | **[MatchCV](https://github.com/MuriloJochkeck/matchcv)** | Plataforma para comparar currículo e vaga, com análise explicável, autenticação e processamento de PDFs. | Next.js · React · TypeScript · Supabase |
 | **[Bolsa Fácil](https://github.com/PramioIFC/Bolsa_Facil)** | Contribuição em aplicativo para acompanhar ações da B3, organizar favoritos e simular uma carteira de investimentos. | Flutter · Dart · SQLite · API brapi |
-| **[NFAuto](https://github.com/MuriloJochkeck/nfauto)** | Projeto de automação para extrair dados de documentos fiscais e preparar preenchimentos com revisão do usuário. | Python · FastAPI · Playwright · SQLite |
 | **[Nexoflow](https://github.com/MuriloJochkeck/nexoflow)** | Aplicativo acadêmico voltado à gestão de renda, desenvolvido nas aulas de dispositivos móveis. | Flutter · Dart |
 | **[Projeto Integrador](https://github.com/MuriloJochkeck/Projeto-Integrador-Grupo-1)** | Desenvolvimento colaborativo de um site para o Projeto Integrador II do IFC. | Desenvolvimento web · Trabalho em equipe |
 
