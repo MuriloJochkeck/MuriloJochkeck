@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Murilo Jochkeck — Desenvolvimento web, mobile e automação" />
-</p>
-
-<p align="center">
   <a href="#sobre-mim">Sobre mim</a> ·
   <a href="#tecnologias">Tecnologias</a> ·
   <a href="#projetos-e-contribuições">Projetos</a> ·
@@ -11,14 +7,13 @@
 
 ## Sobre mim
 
-Sou **Murilo Jochkeck**, estudante do Técnico em Informática para Internet no **Instituto Federal Catarinense — Campus Concórdia**. Desenvolvo aplicações web, aplicativos multiplataforma e automações que conectam interfaces, APIs e dados para resolver problemas do dia a dia.
+Sou **Murilo Jochkeck**, estudante do Técnico em Informática para Internet no **Instituto Federal Catarinense — Campus Concórdia**.
 
-Minha experiência vem de projetos pessoais, acadêmicos e colaborativos: de aplicações financeiras em **Flutter** a plataformas web com **React e Next.js** e automações em **Python**. Tenho interesse em construir produtos úteis e aprimorar a qualidade do código, a experiência de uso e a organização dos projetos.
+Minha experiência vem de projetos pessoais, acadêmicos e colaborativos. Tenho interesse em construir produtos úteis e aprimorar a qualidade do código, a experiência de uso e a organização dos projetos.
 
 - **Web:** interfaces responsivas, autenticação e integração com serviços.
 - **Mobile e desktop:** aplicativos em Flutter com persistência e consumo de APIs.
-- **Automação:** processamento de documentos, validação de dados e fluxos com Python.
-
+- 
 ## Tecnologias
 
 <p>
@@ -54,7 +49,7 @@ Uma seleção de projetos pessoais e trabalhos em equipe. Os links levam aos rep
 
 ## Como desenvolvo
 
-Nos projetos, venho aplicando separação de responsabilidades, validação de dados, testes automatizados e documentação de decisões. Também procuro cuidar da acessibilidade, do tratamento de erros e da proteção das informações dos usuários.
+
 
 ## Contato
 
