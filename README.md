@@ -61,7 +61,7 @@ Uma seleção de projetos pessoais e trabalhos em equipe. Os links levam aos rep
 ## Atividade no GitHub
 
 <p align="center">
-  <a href="https://github.com/MuriloJochkeck?tab=overview"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuriloJochkeck&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;show=reviews,prs_merged&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;icon_color=5eead4&amp;bg_color=0b1524&amp;custom_title=Atividade%20no%20GitHub" alt="Estatísticas públicas do GitHub: commits, pull requests, revisões e repositórios com contribuições" /></a>
+  <a href="https://github.com/MuriloJochkeck?tab=overview"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuriloJochkeck&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;card_width=520&amp;disable_animations=true&amp;show=reviews,prs_merged&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;icon_color=5eead4&amp;bg_color=0b1524&amp;custom_title=Atividade%20no%20GitHub" alt="Estatísticas públicas do GitHub: commits, pull requests, revisões e repositórios com contribuições" /></a>
   <a href="https://github.com/MuriloJochkeck?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloJochkeck&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;bg_color=0b1524" alt="Distribuição das linguagens nos meus repositórios públicos" /></a>
 </p>
 
