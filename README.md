@@ -71,7 +71,7 @@ Minha experiência vem de projetos pessoais, acadêmicos e colaborativos. Tenho 
 | :--- | :--- | :--- |
 | **Zelo** | Aplicativo de finanças pessoais para registrar despesas, acompanhar gastos por categoria e organizar o orçamento, com integração ao WhatsApp. | [Site ↗](https://usezeloapp.vercel.app/) |
 | **MatchCV** | Plataforma que compara currículos com vagas e apresenta requisitos atendidos, lacunas e sugestões de melhoria com evidências. | [Site ↗](https://matchcv-beta.vercel.app/) · [Código](https://github.com/MuriloJochkeck/matchcv) |
-| **OpusFreelas** | Plataforma que conecta contratantes a prestadores de serviços manuais e rurais da região da AMAUC. | [Site ↗](https://opusfreelas.vercel.app/) · [Código](https://github.com/cimentociumento/opusfreelas) |
+| **OpusFreelas** | Plataforma que conecta contratantes a prestadores de serviços manuais e rurais. | [Site ↗](https://opusfreelas.vercel.app/) · [Código](https://github.com/cimentociumento/opusfreelas) |
 | **Bolsa Fácil** | Aplicativo para acompanhar ações da B3, consultar cotações, criar alertas de preço e simular uma carteira de investimentos. | [Código](https://github.com/PramioIFC/Bolsa_Facil) |
 | **Nexoflow** | Aplicativo de gestão de renda desenvolvido em Flutter nas aulas de Desenvolvimento para Dispositivos Móveis. | [Código](https://github.com/MuriloJochkeck/nexoflow) |
 | **RentMaq - Projeto Integrador** | Projeto de plataforma para locação de máquinas e implementos agrícolas, desenvolvido em equipe no IFC. | [Código](https://github.com/MuriloJochkeck/Projeto-Integrador-Grupo-1) |
