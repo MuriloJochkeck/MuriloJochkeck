@@ -69,7 +69,7 @@ Minha experiência vem de projetos pessoais, acadêmicos e colaborativos. Tenho 
 
 | Projeto | Descrição | Acesso |
 | :--- | :--- | :--- |
-| **Zelo** | Gestão de despesas pessoais. | [Site ↗](https://usezeloapp.vercel.app/) |
+| **Zelo** | Gestão de despesas pessoais com integração ao WhatsApp. | [Site ↗](https://usezeloapp.vercel.app/) |
 | **MatchCV** | Comparação entre currículo e vaga. | [Código](https://github.com/MuriloJochkeck/matchcv) |
 | **Bolsa Fácil** | Cotações da B3 e carteira simulada. | [Código](https://github.com/PramioIFC/Bolsa_Facil) |
 | **Nexoflow** | Aplicativo acadêmico de gestão de renda. | [Código](https://github.com/MuriloJochkeck/nexoflow) |
