@@ -67,24 +67,14 @@ Minha experiência vem de projetos pessoais, acadêmicos e colaborativos. Tenho 
 
 ## Projetos
 
-### Zelo · aplicação online
-
-<a href="https://usezeloapp.vercel.app/"><img src="./assets/zelo-card.svg" width="100%" alt="Zelo — gestão financeira pessoal. Clique para acessar o aplicativo." /></a>
-
-**[Acessar o Zelo ↗](https://usezeloapp.vercel.app/)** · Aplicativo de gestão de despesas pessoais, desenvolvido com Flutter e Supabase.
-
-### Projetos pessoais e contribuições
-
-| Projeto | Proposta | Tecnologias |
+| Projeto | Descrição | Acesso |
 | :--- | :--- | :--- |
-| **[MatchCV](https://github.com/MuriloJochkeck/matchcv)** | Plataforma para comparar currículo e vaga, com análise explicável, autenticação e processamento de PDFs. | Next.js · React · TypeScript · Supabase |
-| **[Bolsa Fácil](https://github.com/PramioIFC/Bolsa_Facil)** | Contribuição em aplicativo para acompanhar ações da B3, organizar favoritos e simular uma carteira de investimentos. | Flutter · Dart · SQLite · API brapi |
-| **[Nexoflow](https://github.com/MuriloJochkeck/nexoflow)** | Aplicativo acadêmico voltado à gestão de renda, desenvolvido nas aulas de dispositivos móveis. | Flutter · Dart |
-| **[Projeto Integrador](https://github.com/MuriloJochkeck/Projeto-Integrador-Grupo-1)** | Desenvolvimento colaborativo de um site para o Projeto Integrador II do IFC. | Desenvolvimento web · Trabalho em equipe |
-
-Também participo do **[biblioFacil](https://github.com/JoaoPilger/biblioFacil)** em colaboração com outros desenvolvedores.
-
-[Ver meus commits](https://github.com/search?q=author%3AMuriloJochkeck&type=commits) · [Ver meus pull requests](https://github.com/pulls?q=is%3Apr+author%3AMuriloJochkeck)
+| **Zelo** | Gestão de despesas pessoais. | [Site ↗](https://usezeloapp.vercel.app/) |
+| **MatchCV** | Comparação entre currículo e vaga. | [Código](https://github.com/MuriloJochkeck/matchcv) |
+| **Bolsa Fácil** | Cotações da B3 e carteira simulada. | [Código](https://github.com/PramioIFC/Bolsa_Facil) |
+| **Nexoflow** | Aplicativo acadêmico de gestão de renda. | [Código](https://github.com/MuriloJochkeck/nexoflow) |
+| **Projeto Integrador** | Site desenvolvido em equipe no IFC. | [Código](https://github.com/MuriloJochkeck/Projeto-Integrador-Grupo-1) |
+| **biblioFacil** | Sistema de biblioteca desenvolvido em equipe. | [Código](https://github.com/JoaoPilger/biblioFacil) |
 
 ---
 
