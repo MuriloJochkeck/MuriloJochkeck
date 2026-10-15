@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Sou **Murilo Jochkeck**, estudante do Técnico em Informática para Internet no **Instituto Federal Catarinense — Campus Concórdia**.
+Sou **Murilo Victor Jochkeck**, estudante do Técnico em Informática para Internet no **Instituto Federal Catarinense — Campus Concórdia**.
 
 Minha experiência vem de projetos pessoais, acadêmicos e colaborativos. Tenho interesse em construir produtos úteis e aprimorar a qualidade do código, a experiência de uso e a organização dos projetos.
 
