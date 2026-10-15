@@ -13,7 +13,7 @@ Minha experiência vem de projetos pessoais, acadêmicos e colaborativos. Tenho 
 
 - **Web:** interfaces responsivas, autenticação e integração com serviços.
 - **Mobile e desktop:** aplicativos em Flutter com persistência e consumo de APIs.
-- 
+  
 ## Tecnologias
 
 <p>
